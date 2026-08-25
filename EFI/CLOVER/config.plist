@@ -232,34 +232,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Boot graphics glitch, 10.10.x/10.11.x</string>
-				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
-				<key>Name</key>
-				<string>IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>
-				AQAAdBc=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Logo Fix White</string>
-				<key>Find</key>
-				<data>
-				hcB0a0g=
-				</data>
-				<key>Name</key>
-				<string>IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>
-				McB0W0g=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>change AD198B for Conexant 20672</string>
 				<key>Find</key>
 				<data>
@@ -270,22 +242,6 @@
 				<key>Replace</key>
 				<data>
 				blDxFA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Replace 4th port with VGA</string>
-				<key>Find</key>
-				<data>
-				AQIEABAHAAAQBwAABQMAAAIAAAAwAAAAAgUAAAAEAAAH
-				AAAAAwQAAAAEAAAJAAAABAYAAAAEAAAJAAAA
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSNBGraphicsFB</string>
-				<key>Replace</key>
-				<data>
-				AQIEABITAAASEwAABQMAAAIAAAAwAAAAAgUAAAAEAAAH
-				AAAAAwQAAAAEAAAJAAAABgIAABAAAAAJAAAA
 				</data>
 			</dict>
 			<dict>
